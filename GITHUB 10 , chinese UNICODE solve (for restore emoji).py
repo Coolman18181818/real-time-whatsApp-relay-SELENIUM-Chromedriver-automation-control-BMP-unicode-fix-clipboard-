@@ -18,7 +18,8 @@ driver.get("https://web.whatsapp.com")
 wait = WebDriverWait(driver, 90)
 wait2 = WebDriverWait(driver,3)
 
-
+SOURCE_CHAT = "Device Source"
+DESTINATION_CHAT = "Device Destination"
 
 
 
